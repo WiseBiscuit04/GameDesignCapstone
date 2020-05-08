@@ -1,0 +1,1577 @@
+﻿Log file open, 05/08/20 04:56:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: crystain
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068483
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:039][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-08.56.48:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.08-08.56.48:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.08-08.56.48:048][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-08.56.48:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.08-08.56.48:051][  0]LogHAL: Display: Platform has ~ 16 GB [17064628224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.08-08.56.48:051][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.08-08.56.48:051][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-08.56.48:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.08-08.56.48:052][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Config/Windows/Engine.ini]
+[2020.05.08-08.56.48:052][  0]LogInit: Computer: DESKTOP-S2BRGA8
+[2020.05.08-08.56.48:052][  0]LogInit: User: chris
+[2020.05.08-08.56.48:052][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.08-08.56.48:052][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.08-08.56.48:053][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.08-08.56.48:053][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.08-08.56.48:053][  0]LogMemory: Process Physical Memory: 107.21 MB used, 107.21 MB peak
+[2020.05.08-08.56.48:053][  0]LogMemory: Process Virtual Memory: 102.45 MB used, 102.45 MB peak
+[2020.05.08-08.56.48:053][  0]LogMemory: Physical Memory: 6409.16 MB used,  9864.94 MB free, 16274.10 MB total
+[2020.05.08-08.56.48:053][  0]LogMemory: Virtual Memory: 5163.90 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.05.08-08.56.48:055][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.08-08.56.48:073][  0]LogInit: Using OS detected language (en-US).
+[2020.05.08-08.56.48:073][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.08-08.56.48:073][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.08-08.56.48:247][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.08-08.56.48:282][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.08-08.56.48:282][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.08-08.56.48:426][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-08.56.48:426][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.08-08.56.48:426][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.08-08.56.48:426][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.08-08.56.48:487][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2020.05.08-08.56.48:487][  0]LogD3D11RHI:       4053/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.08-08.56.48:489][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.08-08.56.48:489][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.08-08.56.48:489][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.08-08.56.48:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.08-08.56.48:496][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.08-08.56.48:496][  0]LogWindows: EnumDisplayDevices:
+[2020.05.08-08.56.48:496][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2020.05.08-08.56.48:497][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2020.05.08-08.56.48:497][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.05.08-08.56.48:497][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.05.08-08.56.48:497][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.08-08.56.48:497][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2020.05.08-08.56.48:497][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2020.05.08-08.56.48:497][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2020.05.08-08.56.48:497][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.05.08-08.56.48:540][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.08-08.56.48:540][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.08-08.56.48:558][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.08-08.56.48:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.08-08.56.48:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.08-08.56.48:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.08-08.56.48:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.08-08.56.48:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.08-08.56.48:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.08-08.56.48:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.08-08.56.48:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.08-08.56.48:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.08-08.56.48:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.08-08.56.48:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.08-08.56.48:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.08-08.56.49:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.08-08.56.49:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.08-08.56.49:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.08-08.56.49:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.08-08.56.49:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.08-08.56.49:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.08-08.56.49:041][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.08-08.56.49:044][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.08-08.56.49:068][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Intermediate/Shaders/WorkingDirectory/44408/).
+[2020.05.08-08.56.49:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chris/AppData/Local/Temp/UnrealShaderWorkingDir/0B30A5FA4A190D85EC0586AC8694CBF1/'.
+[2020.05.08-08.56.49:069][  0]LogXGEController: Cleaning working directory: C:/Users/chris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.08-08.56.49:069][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.08-08.56.49:069][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.08-08.56.49:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.08-08.56.49:809][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.08-08.56.49:865][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/chris/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.08-08.56.49:865][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/chris/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.08-08.56.49:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.08-08.56.49:866][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.08-08.56.49:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-08.56.49:866][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.08-08.56.49:875][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.08-08.56.49:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-08.56.49:876][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.08-08.56.49:934][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.08-08.56.49:934][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.08-08.56.49:934][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.08-08.56.49:971][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.08-08.56.49:973][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.08-08.56.49:974][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.08-08.56.50:030][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.05.08-08.56.50:325][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-08.56.50:482][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.08-08.56.50:482][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.08-08.56.50:482][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.08-08.56.50:482][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.08-08.56.50:482][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.08-08.56.50:499][  0]LogNetVersion: crystain 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2231927441)
+[2020.05.08-08.56.51:598][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.063637 seconds
+[2020.05.08-08.56.51:605][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.08-08.56.51:605][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.08-08.56.51:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.08-08.56.51:982][  0]LogPython: Using Python 2.7.14
+[2020.05.08-08.56.53:143][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.08-08.56.53:149][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.08-08.56.53:249][  0]SourceControl: Source control is disabled
+[2020.05.08-08.56.53:725][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.08-08.56.53:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.08-08.56.53:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.08-08.56.53:851][  0]LogOcInput: OculusInput pre-init called
+[2020.05.08-08.56.53:859][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.08-08.56.53:859][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.08-08.56.54:974][  0]LogEngine: Initializing Engine...
+[2020.05.08-08.56.54:974][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-08.56.54:975][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.08-08.56.55:316][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.08-08.56.55:325][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-08.56.55:339][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-08.56.55:339][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-08.56.55:339][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Name: Headphones (2- Astro A50 Game)
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Channel Count Used: 6
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Device Channel Count: 6
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 4: SideLeft
+[2020.05.08-08.56.55:378][  0]LogAudioMixer: Display: 5: SideRight
+[2020.05.08-08.56.55:402][  0]LogAudioMixer: Display: Using Audio Device Headphones (2- Astro A50 Game)
+[2020.05.08-08.56.55:406][  0]LogInit: FAudioDevice initialized.
+[2020.05.08-08.56.55:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.08-08.56.55:556][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/chris/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.08-08.56.55:564][  0]LogInit: Texture streaming: Enabled
+[2020.05.08-08.56.55:573][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.08-08.56.55:573][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.08-08.56.55:575][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.08-08.56.55:647][  0]LogInit: Transaction tracking system initialized
+[2020.05.08-08.56.55:657][  0]BlueprintLog: New page: Editor Load
+[2020.05.08-08.56.55:687][  0]LocalizationService: Localization service is disabled
+[2020.05.08-08.56.55:987][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.08-08.56.55:988][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.08-08.56.56:085][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Desktop/GameDesignCapstone/crystain/Content/' took 0.04s
+[2020.05.08-08.56.56:668][  0]Cmd: MAP LOAD FILE="../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.08-08.56.56:668][  0]LightingResults: New page: Lighting Build
+[2020.05.08-08.56.56:669][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-08.56.56:669][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-08.56.56:669][  0]MapCheck: New page: Map Check
+[2020.05.08-08.56.56:669][  0]LightingResults: New page: Lighting Build
+[2020.05.08-08.56.56:702][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.08-08.56.58:629][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.05.08-08.56.58:672][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.08-08.56.58:733][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.08-08.56.58:738][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.08-08.56.58:738][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.05.08-08.56.58:739][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.070
+[2020.05.08-08.56.58:899][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.56.58:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.56.58:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.56.58:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-08.56.58:930][  0]LogCollectionManager: Loaded 0 collections in 0.002941 seconds
+[2020.05.08-08.56.58:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Collections/' took 0.00s
+[2020.05.08-08.56.58:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Desktop/GameDesignCapstone/crystain/Content/Developers/chris/Collections/' took 0.00s
+[2020.05.08-08.56.58:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Desktop/GameDesignCapstone/crystain/Content/Collections/' took 0.00s
+[2020.05.08-08.56.58:942][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3038 classes and 727 folders.
+[2020.05.08-08.56.58:946][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-08.56.59:009][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-08.56.59:013][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.08-08.56.59:266][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-08.56.59:266][  0]LogLoad: (Engine Initialization) Total time: 12.95 seconds
+[2020.05.08-08.56.59:266][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.08-08.56.59:339][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.08-08.56.59:342][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.08-08.56.59:344][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.08-08.56.59:350][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.08-08.56.59:425][  1]LogRenderer: Reallocating scene render targets to support 380x136 Format 10 NumSamples 1 (Frame:1).
+[2020.05.08-08.56.59:511][  1]LogAssetRegistry: Asset discovery search completed in 9.4818 seconds
+[2020.05.08-08.56.59:517][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.05.08-08.57.13:841][120]LogRenderer: Reallocating scene render targets to support 1160x628 Format 10 NumSamples 1 (Frame:1052).
+[2020.05.08-08.57.13:841][120]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.08-08.57.36:797][420]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-08.57.36:798][420]LogLinker: Warning: Asset '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-08.57.36:802][420]LogLinker: Warning: Asset '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-08.57.36:803][420]LogLinker: Warning: Asset '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-08.57.36:803][420]LogLinker: Warning: Asset '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-08.57.36:901][420]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.08-08.57.37:000][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_2K_Albedo.jpg)
+[2020.05.08-08.57.37:173][420]LogTexture: Display: Building textures: ucurag3fa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-08.57.38:050][420]LogTexture: Display: Building textures: ucurag3fa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-08.57.39:757][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_2K_Displacement.jpg)
+[2020.05.08-08.57.39:802][420]LogTexture: Display: Building textures: ucurag3fa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-08.57.40:069][420]LogTexture: Display: Building textures: ucurag3fa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-08.57.41:823][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_2K_Normal_LOD0.jpg)
+[2020.05.08-08.57.42:038][420]LogTexture: Display: Building textures: ucurag3fa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.57.42:352][420]LogTexture: Display: Building textures: ucurag3fa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.57.42:627][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_2K_Roughness.jpg)
+[2020.05.08-08.57.42:677][420]LogTexture: Display: Building textures: ucurag3fa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-08.57.42:967][420]LogTexture: Display: Building textures: ucurag3fa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-08.57.44:642][420]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD0.fbx)
+[2020.05.08-08.57.44:655][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD0.fbx
+[2020.05.08-08.57.44:665][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.44:721][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.44:822][420]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.44:848][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.57.45:023][420]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.57.45:076][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD1.fbx
+[2020.05.08-08.57.45:085][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.45:148][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.45:302][420]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.45:339][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.57.45:339][420]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.57.45:551][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD2.fbx
+[2020.05.08-08.57.45:559][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.45:641][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.45:862][420]LogStaticMesh: Built static mesh [0.23s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.45:955][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.57.45:955][420]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.57.46:207][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD3.fbx
+[2020.05.08-08.57.46:216][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.46:298][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.46:537][420]LogStaticMesh: Built static mesh [0.24s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.46:597][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.57.46:598][420]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.57.46:803][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD4.fbx
+[2020.05.08-08.57.46:809][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.46:885][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.47:158][420]LogStaticMesh: Built static mesh [0.27s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.47:231][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.57.47:231][420]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.57.47:434][420]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_misc_ucurag3fa\ucurag3fa_LOD5.fbx
+[2020.05.08-08.57.47:440][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.57.47:498][420]LogStaticMesh: Building static mesh ucurag3fa_LOD0...
+[2020.05.08-08.57.47:769][420]LogStaticMesh: Built static mesh [0.27s] /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-08.57.47:839][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.15:286][495]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-08.58.15:468][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_2K_Albedo.jpg)
+[2020.05.08-08.58.15:667][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-08.58.16:699][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-08.58.18:390][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_2K_Displacement.jpg)
+[2020.05.08-08.58.18:423][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-08.58.18:676][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-08.58.20:370][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_2K_Normal_LOD0.jpg)
+[2020.05.08-08.58.20:593][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.58.20:901][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.58.21:176][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_2K_Roughness.jpg)
+[2020.05.08-08.58.21:226][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-08.58.21:526][495]LogTexture: Display: Building textures: udfkbb2qx_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-08.58.23:259][495]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD0.fbx)
+[2020.05.08-08.58.23:270][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD0.fbx
+[2020.05.08-08.58.23:288][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.23:437][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.23:672][495]LogStaticMesh: Built static mesh [0.23s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.23:738][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.24:035][495]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.58.24:079][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD1.fbx
+[2020.05.08-08.58.24:098][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.24:215][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.24:615][495]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.24:699][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.24:699][495]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.58.24:954][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD2.fbx
+[2020.05.08-08.58.24:965][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.25:079][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.25:589][495]LogStaticMesh: Built static mesh [0.51s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.25:686][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.25:686][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.25:698][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.25:698][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.25:698][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.25:698][495]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.58.25:902][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD3.fbx
+[2020.05.08-08.58.25:912][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.26:014][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.26:608][495]LogStaticMesh: Built static mesh [0.59s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.26:719][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.26:719][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.26:730][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.26:730][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.26:730][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.26:731][495]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.58.26:934][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD4.fbx
+[2020.05.08-08.58.26:940][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.27:014][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.27:642][495]LogStaticMesh: Built static mesh [0.63s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.27:743][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.27:743][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.27:758][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.27:758][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.27:758][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.27:758][495]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.58.27:968][495]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udfkbb2qx\udfkbb2qx_LOD5.fbx
+[2020.05.08-08.58.27:973][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.58.28:031][495]LogStaticMesh: Building static mesh udfkbb2qx_LOD0...
+[2020.05.08-08.58.28:663][495]LogStaticMesh: Built static mesh [0.63s] /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-08.58.28:772][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.28:772][495]LogStaticMesh: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-08.58.28:789][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.58.28:789][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.28:789][495]FBXImport: Warning: udfkbb2qx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-08.58.57:722][574]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-08.58.57:917][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_2K_Albedo.jpg)
+[2020.05.08-08.58.58:092][574]LogTexture: Display: Building textures: udfjeicqx_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-08.58.59:132][574]LogTexture: Display: Building textures: udfjeicqx_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-08.59.00:824][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_2K_Displacement.jpg)
+[2020.05.08-08.59.00:853][574]LogTexture: Display: Building textures: udfjeicqx_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-08.59.01:078][574]LogTexture: Display: Building textures: udfjeicqx_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-08.59.02:802][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_2K_Normal_LOD0.jpg)
+[2020.05.08-08.59.03:019][574]LogTexture: Display: Building textures: udfjeicqx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.59.03:283][574]LogTexture: Display: Building textures: udfjeicqx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.59.03:593][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_2K_Roughness.jpg)
+[2020.05.08-08.59.03:643][574]LogTexture: Display: Building textures: udfjeicqx_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-08.59.03:957][574]LogTexture: Display: Building textures: udfjeicqx_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-08.59.05:693][574]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD0.fbx)
+[2020.05.08-08.59.05:703][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD0.fbx
+[2020.05.08-08.59.05:711][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.05:746][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.05:798][574]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.05:823][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.05:953][574]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.06:013][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD1.fbx
+[2020.05.08-08.59.06:020][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.06:064][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.06:145][574]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.06:182][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.06:183][574]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.06:383][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD2.fbx
+[2020.05.08-08.59.06:389][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.06:463][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.06:572][574]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.06:651][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.06:651][574]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.06:950][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD3.fbx
+[2020.05.08-08.59.06:956][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.07:013][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.07:134][574]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.07:191][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.07:191][574]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.07:434][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD4.fbx
+[2020.05.08-08.59.07:440][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.07:496][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.07:635][574]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.07:718][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.07:719][574]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.07:916][574]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_tool_udfjeicqx\udfjeicqx_LOD5.fbx
+[2020.05.08-08.59.07:922][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.07:980][574]LogStaticMesh: Building static mesh udfjeicqx_LOD0...
+[2020.05.08-08.59.08:136][574]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-08.59.08:218][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.36:424][659]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-08.59.36:616][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_2K_Albedo.jpg)
+[2020.05.08-08.59.36:809][659]LogTexture: Display: Building textures: udzjebtfa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-08.59.37:932][659]LogTexture: Display: Building textures: udzjebtfa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-08.59.39:607][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_2K_Displacement.jpg)
+[2020.05.08-08.59.39:658][659]LogTexture: Display: Building textures: udzjebtfa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-08.59.40:022][659]LogTexture: Display: Building textures: udzjebtfa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-08.59.41:773][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_2K_Normal_LOD0.jpg)
+[2020.05.08-08.59.41:998][659]LogTexture: Display: Building textures: udzjebtfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.59.42:328][659]LogTexture: Display: Building textures: udzjebtfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-08.59.42:610][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_2K_Roughness.jpg)
+[2020.05.08-08.59.42:665][659]LogTexture: Display: Building textures: udzjebtfa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-08.59.42:992][659]LogTexture: Display: Building textures: udzjebtfa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-08.59.44:661][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD0.fbx)
+[2020.05.08-08.59.44:672][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD0.fbx
+[2020.05.08-08.59.44:688][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.44:828][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.45:066][659]LogStaticMesh: Built static mesh [0.24s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.45:131][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.45:433][659]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.45:478][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD1.fbx
+[2020.05.08-08.59.45:488][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.45:580][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.45:962][659]LogStaticMesh: Built static mesh [0.38s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.46:042][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.46:042][659]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.46:249][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD2.fbx
+[2020.05.08-08.59.46:256][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.46:328][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.46:732][659]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.46:836][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.46:836][659]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.47:048][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD3.fbx
+[2020.05.08-08.59.47:054][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.47:112][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.47:524][659]LogStaticMesh: Built static mesh [0.41s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.47:636][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.47:636][659]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.47:847][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD4.fbx
+[2020.05.08-08.59.47:853][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.47:913][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.48:337][659]LogStaticMesh: Built static mesh [0.42s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.48:454][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-08.59.48:455][659]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-08.59.48:666][659]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_udzjebtfa\udzjebtfa_LOD5.fbx
+[2020.05.08-08.59.48:671][659]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-08.59.48:729][659]LogStaticMesh: Building static mesh udzjebtfa_LOD0...
+[2020.05.08-08.59.49:143][659]LogStaticMesh: Built static mesh [0.41s] /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-08.59.49:255][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.39:222][804]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-09.00.39:447][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_2K_Albedo.jpg)
+[2020.05.08-09.00.39:617][804]LogTexture: Display: Building textures: ueihfisfa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-09.00.40:598][804]LogTexture: Display: Building textures: ueihfisfa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-09.00.42:320][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_2K_Displacement.jpg)
+[2020.05.08-09.00.42:357][804]LogTexture: Display: Building textures: ueihfisfa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-09.00.42:618][804]LogTexture: Display: Building textures: ueihfisfa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-09.00.44:335][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_2K_Normal_LOD0.jpg)
+[2020.05.08-09.00.44:550][804]LogTexture: Display: Building textures: ueihfisfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.00.44:814][804]LogTexture: Display: Building textures: ueihfisfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.00.45:142][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_2K_Roughness.jpg)
+[2020.05.08-09.00.45:193][804]LogTexture: Display: Building textures: ueihfisfa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-09.00.45:472][804]LogTexture: Display: Building textures: ueihfisfa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-09.00.47:208][804]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD0.fbx)
+[2020.05.08-09.00.47:218][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD0.fbx
+[2020.05.08-09.00.47:231][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.47:323][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.47:476][804]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.47:516][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.47:745][804]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.00.47:908][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD1.fbx
+[2020.05.08-09.00.47:918][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.47:993][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.48:248][804]LogStaticMesh: Built static mesh [0.25s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.48:314][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.48:315][804]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.00.48:514][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD2.fbx
+[2020.05.08-09.00.48:526][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.48:628][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.48:951][804]LogStaticMesh: Built static mesh [0.32s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.49:029][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.49:029][804]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.00.50:259][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD3.fbx
+[2020.05.08-09.00.50:271][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.50:329][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.50:702][804]LogStaticMesh: Built static mesh [0.37s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.50:751][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.50:751][804]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.00.51:609][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD4.fbx
+[2020.05.08-09.00.51:616][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.51:660][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.52:061][804]LogStaticMesh: Built static mesh [0.42s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.52:115][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.00.52:115][804]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.00.52:314][804]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_container_ueihfisfa\ueihfisfa_LOD5.fbx
+[2020.05.08-09.00.52:320][804]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.00.52:378][804]LogStaticMesh: Building static mesh ueihfisfa_LOD0...
+[2020.05.08-09.00.52:792][804]LogStaticMesh: Built static mesh [0.41s] /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.00.52:882][804]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.27:576][902]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-09.01.27:763][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_2K_Albedo.jpg)
+[2020.05.08-09.01.27:946][902]LogTexture: Display: Building textures: ueihbhefa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-09.01.28:963][902]LogTexture: Display: Building textures: ueihbhefa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-09.01.30:691][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_2K_Displacement.jpg)
+[2020.05.08-09.01.30:744][902]LogTexture: Display: Building textures: ueihbhefa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-09.01.31:211][902]LogTexture: Display: Building textures: ueihbhefa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-09.01.32:942][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_2K_Normal_LOD0.jpg)
+[2020.05.08-09.01.33:169][902]LogTexture: Display: Building textures: ueihbhefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.01.33:481][902]LogTexture: Display: Building textures: ueihbhefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.01.33:773][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_2K_Roughness.jpg)
+[2020.05.08-09.01.33:821][902]LogTexture: Display: Building textures: ueihbhefa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-09.01.34:140][902]LogTexture: Display: Building textures: ueihbhefa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-09.01.35:826][902]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD0.fbx)
+[2020.05.08-09.01.35:836][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD0.fbx
+[2020.05.08-09.01.35:848][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.35:944][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.36:095][902]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.36:130][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.36:298][902]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.01.36:343][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD1.fbx
+[2020.05.08-09.01.36:353][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.36:427][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.36:674][902]LogStaticMesh: Built static mesh [0.25s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.36:718][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.36:718][902]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.01.36:931][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD2.fbx
+[2020.05.08-09.01.36:940][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.37:055][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.37:373][902]LogStaticMesh: Built static mesh [0.33s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.37:453][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.37:453][902]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.01.37:732][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD3.fbx
+[2020.05.08-09.01.37:740][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.37:828][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.38:183][902]LogStaticMesh: Built static mesh [0.36s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.38:257][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.38:258][902]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.01.38:463][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD4.fbx
+[2020.05.08-09.01.38:469][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.38:543][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.38:940][902]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.39:019][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.01.39:020][902]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.01.39:230][902]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\3d_other_ueihbhefa\ueihbhefa_LOD5.fbx
+[2020.05.08-09.01.39:236][902]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.01.39:294][902]LogStaticMesh: Building static mesh ueihbhefa_LOD0...
+[2020.05.08-09.01.39:707][902]LogStaticMesh: Built static mesh [0.41s] /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.01.39:792][902]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.13:296][  2]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-09.02.13:477][  2]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_2K_Albedo.jpg)
+[2020.05.08-09.02.13:639][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-09.02.14:545][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-09.02.16:256][  2]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_2K_Displacement.jpg)
+[2020.05.08-09.02.16:302][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-09.02.16:624][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-09.02.18:420][  2]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_2K_Normal_LOD0.jpg)
+[2020.05.08-09.02.18:630][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.02.18:895][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.02.19:205][  2]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_2K_Roughness.jpg)
+[2020.05.08-09.02.19:254][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-09.02.19:584][  2]LogTexture: Display: Building textures: ueqgcaifa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-09.02.21:269][  2]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD0.fbx)
+[2020.05.08-09.02.21:279][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD0.fbx
+[2020.05.08-09.02.21:287][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.21:331][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.21:393][  2]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.21:410][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.21:495][  2]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.02.21:542][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD1.fbx
+[2020.05.08-09.02.21:550][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.21:593][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.21:689][  2]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.21:713][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.21:714][  2]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.02.21:911][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD2.fbx
+[2020.05.08-09.02.21:918][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.21:992][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.22:121][  2]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.22:199][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.22:199][  2]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.02.22:531][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD3.fbx
+[2020.05.08-09.02.22:537][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.22:608][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.22:759][  2]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.22:817][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.22:817][  2]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.02.23:029][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD4.fbx
+[2020.05.08-09.02.23:035][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.23:094][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.23:266][  2]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.23:350][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.02.23:350][  2]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.02.23:564][  2]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\hardware_sharp tools_ueqgcaifa\ueqgcaifa_LOD5.fbx
+[2020.05.08-09.02.23:569][  2]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.02.23:627][  2]LogStaticMesh: Building static mesh ueqgcaifa_LOD0...
+[2020.05.08-09.02.23:793][  2]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.02.23:852][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.18:210][165]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-09.03.18:425][165]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_2K_Albedo.jpg)
+[2020.05.08-09.03.18:613][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-09.03.19:561][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-09.03.21:236][165]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_2K_Displacement.jpg)
+[2020.05.08-09.03.21:277][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-09.03.21:571][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-09.03.23:297][165]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_2K_Normal_LOD0.jpg)
+[2020.05.08-09.03.23:504][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.03.23:777][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.03.24:087][165]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_2K_Roughness.jpg)
+[2020.05.08-09.03.24:133][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-09.03.24:413][165]LogTexture: Display: Building textures: tl1xfcbfa_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-09.03.26:069][165]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD0.fbx)
+[2020.05.08-09.03.26:079][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD0.fbx
+[2020.05.08-09.03.26:092][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.26:195][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.26:345][165]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.26:388][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.26:573][165]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.03.26:628][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD1.fbx
+[2020.05.08-09.03.26:638][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.26:708][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.26:993][165]LogStaticMesh: Built static mesh [0.29s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.27:049][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.27:049][165]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.03.27:262][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD2.fbx
+[2020.05.08-09.03.27:272][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.27:374][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.27:716][165]LogStaticMesh: Built static mesh [0.34s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.27:791][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.27:792][165]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.03.28:064][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD3.fbx
+[2020.05.08-09.03.28:072][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.28:159][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.28:551][165]LogStaticMesh: Built static mesh [0.39s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.28:639][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.28:639][165]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.03.28:852][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD4.fbx
+[2020.05.08-09.03.28:859][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.28:926][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.29:338][165]LogStaticMesh: Built static mesh [0.41s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.29:426][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.03.29:426][165]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.03.29:646][165]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_misc_tl1xfcbfa\tl1xfcbfa_LOD5.fbx
+[2020.05.08-09.03.29:655][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.03.29:708][165]LogStaticMesh: Building static mesh tl1xfcbfa_LOD0...
+[2020.05.08-09.03.30:134][165]LogStaticMesh: Built static mesh [0.43s] /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.03.30:227][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.00:196][254]MSLiveLinkLog: Successfully read asset json data
+[2020.05.08-09.04.00:460][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_2K_Albedo.jpg)
+[2020.05.08-09.04.00:633][254]LogTexture: Display: Building textures: udlufetqx_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.08-09.04.01:387][254]LogTexture: Display: Building textures: udlufetqx_2K_Albedo (BC7, 2048X2048)
+[2020.05.08-09.04.03:084][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_2K_Displacement.jpg)
+[2020.05.08-09.04.03:107][254]LogTexture: Display: Building textures: udlufetqx_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.08-09.04.03:335][254]LogTexture: Display: Building textures: udlufetqx_2K_Displacement (BC7, 2048X2048)
+[2020.05.08-09.04.05:064][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_2K_Normal_LOD0.jpg)
+[2020.05.08-09.04.05:270][254]LogTexture: Display: Building textures: udlufetqx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.04.05:527][254]LogTexture: Display: Building textures: udlufetqx_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.08-09.04.05:818][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_2K_Roughness.jpg)
+[2020.05.08-09.04.05:861][254]LogTexture: Display: Building textures: udlufetqx_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.08-09.04.06:135][254]LogTexture: Display: Building textures: udlufetqx_2K_Roughness (BC7, 2048X2048)
+[2020.05.08-09.04.07:878][254]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD0.fbx)
+[2020.05.08-09.04.07:889][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD0.fbx
+[2020.05.08-09.04.07:903][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.08:031][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.08:227][254]LogStaticMesh: Built static mesh [0.20s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.08:281][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.08:537][254]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.04.08:597][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD1.fbx
+[2020.05.08-09.04.08:608][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.08:708][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.09:057][254]LogStaticMesh: Built static mesh [0.35s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.09:115][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.09:115][254]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.04.09:329][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD2.fbx
+[2020.05.08-09.04.09:339][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.09:457][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.09:898][254]LogStaticMesh: Built static mesh [0.44s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.09:968][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.09:968][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.09:981][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.09:981][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.09:981][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.09:982][254]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.04.10:262][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD3.fbx
+[2020.05.08-09.04.10:271][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.10:357][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.10:881][254]LogStaticMesh: Built static mesh [0.52s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.10:952][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.10:952][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.10:965][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.10:965][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.10:965][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.10:965][254]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.04.11:194][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD4.fbx
+[2020.05.08-09.04.11:201][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.11:275][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.11:810][254]LogStaticMesh: Built static mesh [0.53s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.11:888][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.11:888][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.11:901][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.11:901][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.11:901][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.11:901][254]LogExportMeshUtils: Fbx LOD loading
+[2020.05.08-09.04.12:112][254]LogFbx: Loading FBX Scene from C:\Users\chris\Documents\Megascans Library\Downloaded\3d\wood_other_udlufetqx\udlufetqx_LOD5.fbx
+[2020.05.08-09.04.12:118][254]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.08-09.04.12:174][254]LogStaticMesh: Building static mesh udlufetqx_LOD0...
+[2020.05.08-09.04.12:708][254]LogStaticMesh: Built static mesh [0.53s] /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.04.12:802][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.12:802][254]LogStaticMesh: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.08-09.04.12:818][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.08-09.04.12:818][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.12:818][254]FBXImport: Warning: udlufetqx_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.08-09.04.42:498][351]LogSlate: Window 'Message Log' being destroyed
+[2020.05.08-09.04.42:503][351]LogSlate: Window 'Message Log' being destroyed
+[2020.05.08-09.04.43:699][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.05.08-09.04.45:554][478]LogSlate: Window 'Save Content' being destroyed
+[2020.05.08-09.04.46:106][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Axe_00_inst2157CBDF4C07E8534E02CE8752D9D7B1.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/Axe_00_inst.uasset'
+[2020.05.08-09.04.46:883][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueqgcaifa_2K_Albedo4E75D2CE4360A691F3E16289BA0288C9.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Albedo.uasset'
+[2020.05.08-09.04.47:625][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueqgcaifa_2K_DisplacementCDB9AECD4407807EB5DD8FB227FD13AF.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Displacement.uasset'
+[2020.05.08-09.04.48:631][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueqgcaifa_2K_Normal_LOD032CE740D42923A3C431BCDB4EB2DFE36.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.04.49:397][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueqgcaifa_2K_Roughness758A78D24A35532A9C7174941BDE7ED9.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Roughness.uasset'
+[2020.05.08-09.04.49:875][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueqgcaifa_LOD0BBAED61C4C95B632003F8AB0B7882B39.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.uasset'
+[2020.05.08-09.04.50:147][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Jute_Jug_00_inst88C522B64F4E9226DAF348B95B828378.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/Jute_Jug_00_inst.uasset'
+[2020.05.08-09.04.50:906][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihbhefa_2K_AlbedoDA0605B54FCE86993686DC8CDB6A5000.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Albedo.uasset'
+[2020.05.08-09.04.51:609][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihbhefa_2K_Displacement0761A1E44C301C68BF0B0D9B9D8FDEBD.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Displacement.uasset'
+[2020.05.08-09.04.52:792][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihbhefa_2K_Normal_LOD0D2162F3340204FBAD76E348B89050D4A.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.04.53:664][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihbhefa_2K_Roughness9CB919F54DA37280BF4A1580790872B0.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Roughness.uasset'
+[2020.05.08-09.04.54:125][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihbhefa_LOD05D99DAC94D3AB9654B204B872E0A53F0.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.uasset'
+[2020.05.08-09.04.54:512][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Medieval_Butter_Churn_00_inst0D83DA024F581922693F898328D4F007.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/Medieval_Butter_Churn_00_inst.uasset'
+[2020.05.08-09.04.55:307][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfjeicqx_2K_AlbedoFFE7A8584155587CD164408EBEE416EE.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Albedo.uasset'
+[2020.05.08-09.04.56:023][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfjeicqx_2K_DisplacementC27C66104395BC0985387D89BB44E632.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Displacement.uasset'
+[2020.05.08-09.04.57:036][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfjeicqx_2K_Normal_LOD09316BECA413C5A5F9651619222E1996E.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Normal_LOD0.uasset'
+[2020.05.08-09.04.57:840][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfjeicqx_2K_Roughness7A3297824D6A1A64CF6198B97D0EA21F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Roughness.uasset'
+[2020.05.08-09.04.58:263][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfjeicqx_LOD090D0EA22461E08989532379E1621ABC3.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.uasset'
+[2020.05.08-09.04.58:573][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Old_Wooden_Bench_00_instFA2796FE4058015613C643B1A9FF45B0.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/Old_Wooden_Bench_00_inst.uasset'
+[2020.05.08-09.04.59:297][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udlufetqx_2K_AlbedoDD13CE2D4BF333D2A8A958B042A31E37.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Albedo.uasset'
+[2020.05.08-09.04.59:930][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udlufetqx_2K_Displacement26F780C84F167363B372958502FF39BC.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Displacement.uasset'
+[2020.05.08-09.05.00:898][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udlufetqx_2K_Normal_LOD04E357ABC479A2564CDB0C6A163C6F74F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.01:670][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udlufetqx_2K_Roughness618F0B384E09ED4DABE0AD82CE704AFE.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Roughness.uasset'
+[2020.05.08-09.05.02:208][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udlufetqx_LOD06BF7B5F447F1AC79EDBEF789A8C39EEE.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.uasset'
+[2020.05.08-09.05.02:653][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Old_Wooden_Carafe_00_inst58D71DA14CF95A6A04E14591C3BFE27E.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/Old_Wooden_Carafe_00_inst.uasset'
+[2020.05.08-09.05.03:479][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udzjebtfa_2K_AlbedoE0623934434B90AAC927CC877519EC3A.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Albedo.uasset'
+[2020.05.08-09.05.04:280][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udzjebtfa_2K_DisplacementAFCDA99B4B7DAEC34BC0C98BB00F708F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Displacement.uasset'
+[2020.05.08-09.05.05:437][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udzjebtfa_2K_Normal_LOD01C7C27354D25B67C296FF7876830F3B1.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.06:341][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udzjebtfa_2K_Roughness6B91E37C427897CA82EA82B1B3BD6EDD.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Roughness.uasset'
+[2020.05.08-09.05.06:773][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udzjebtfa_LOD0D2096E304E7E2FB614C439B5F4C6E8D0.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.uasset'
+[2020.05.08-09.05.07:122][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Old_Wooden_Chest_00_instDB3F7202462B21DADD6C4EB5F09B0F70.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/Old_Wooden_Chest_00_inst.uasset'
+[2020.05.08-09.05.07:871][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfkbb2qx_2K_Albedo2DCFF9B34A9EED27A50FBAB31C120E28.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Albedo.uasset'
+[2020.05.08-09.05.08:512][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfkbb2qx_2K_Displacement2E0ED06C44829816F09DBCB49CEF9FEC.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Displacement.uasset'
+[2020.05.08-09.05.09:544][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfkbb2qx_2K_Normal_LOD02EEBC70041C063B56C52D5B6EA1E94B0.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.10:298][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfkbb2qx_2K_RoughnessFA60ABCC4B3BF6DBC3B638BAF6661DDC.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Roughness.uasset'
+[2020.05.08-09.05.10:774][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/udfkbb2qx_LOD03BA7A0994B3E3FBF79C054A460C736D6.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.uasset'
+[2020.05.08-09.05.11:170][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Old_Wooden_Table_00_inst08BC784A435A58DF2B2E888C6D73068F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/Old_Wooden_Table_00_inst.uasset'
+[2020.05.08-09.05.11:940][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/tl1xfcbfa_2K_AlbedoF91ADE3D4AE85EFC227E48858A16E82D.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Albedo.uasset'
+[2020.05.08-09.05.12:620][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/tl1xfcbfa_2K_DisplacementF0A213944F722130EA55D792F2F31F2A.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Displacement.uasset'
+[2020.05.08-09.05.13:578][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/tl1xfcbfa_2K_Normal_LOD0A89A495B4185D250A4DE2B9B549AB893.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.14:323][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/tl1xfcbfa_2K_Roughness1435F43B483C1B793AAD3190A3736A5F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Roughness.uasset'
+[2020.05.08-09.05.14:799][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/tl1xfcbfa_LOD0A73569344A63E73DA031ADBCB157402A.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.uasset'
+[2020.05.08-09.05.15:686][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihfisfa_2K_Albedo1634606E453C8178E13646B3C34AF952.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Albedo.uasset'
+[2020.05.08-09.05.16:321][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihfisfa_2K_Displacement9F12641B464AB43283AB47B9342F65DB.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Displacement.uasset'
+[2020.05.08-09.05.17:270][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihfisfa_2K_Normal_LOD091C36AB8494AD5238EAC38BAD7FEE34F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.18:107][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihfisfa_2K_Roughness8C6B03E44A539E31260D718BE10332BD.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Roughness.uasset'
+[2020.05.08-09.05.18:595][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ueihfisfa_LOD04F7FEA6A4CFF611E65DB128542D8D80E.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.uasset'
+[2020.05.08-09.05.19:005][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Wooden_Container_00_instA8D99F6D420D4FAC2EFB4087003E0F4F.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Container_00/Wooden_Container_00_inst.uasset'
+[2020.05.08-09.05.19:799][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ucurag3fa_2K_Albedo0F567665443B7090C82D83ABD17F90DF.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Albedo.uasset'
+[2020.05.08-09.05.20:457][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ucurag3fa_2K_DisplacementF6613FA040C6FC3D9851699E0E7959C7.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Displacement.uasset'
+[2020.05.08-09.05.21:492][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ucurag3fa_2K_Normal_LOD089BE054246654562B242D6AF71FD43C2.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Normal_LOD0.uasset'
+[2020.05.08-09.05.22:303][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ucurag3fa_2K_RoughnessB76F248E4F12AD42B33605B8D800E8E2.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Roughness.uasset'
+[2020.05.08-09.05.22:718][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/ucurag3fa_LOD0D963CE4A46EBD7978C29FE870F9FE37C.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.uasset'
+[2020.05.08-09.05.23:084][478]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Saved/Wooden_Keg_00_inst1991874846DBDD4FCC60CCA1A23239EA.tmp' to '../../../../../../Users/chris/Desktop/GameDesignCapstone/crystain/Content/Megascans/3D_Assets/Wooden_Keg_00/Wooden_Keg_00_inst.uasset'
+[2020.05.08-09.05.23:507][478]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.08-09.05.23:507][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Axe_00/Axe_00_inst.Axe_00_inst
+[2020.05.08-09.05.23:507][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Albedo.ueqgcaifa_2K_Albedo
+[2020.05.08-09.05.23:507][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Displacement.ueqgcaifa_2K_Displacement
+[2020.05.08-09.05.23:507][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Normal_LOD0.ueqgcaifa_2K_Normal_LOD0
+[2020.05.08-09.05.23:507][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_2K_Roughness.ueqgcaifa_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Axe_00/ueqgcaifa_LOD0.ueqgcaifa_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Jute_Jug_00/Jute_Jug_00_inst.Jute_Jug_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Albedo.ueihbhefa_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Displacement.ueihbhefa_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Normal_LOD0.ueihbhefa_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_2K_Roughness.ueihbhefa_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Jute_Jug_00/ueihbhefa_LOD0.ueihbhefa_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/Medieval_Butter_Churn_00_inst.Medieval_Butter_Churn_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Albedo.udfjeicqx_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Displacement.udfjeicqx_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Normal_LOD0.udfjeicqx_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_2K_Roughness.udfjeicqx_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Medieval_Butter_Churn_00/udfjeicqx_LOD0.udfjeicqx_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/Old_Wooden_Bench_00_inst.Old_Wooden_Bench_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Albedo.udlufetqx_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Displacement.udlufetqx_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Normal_LOD0.udlufetqx_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_2K_Roughness.udlufetqx_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Old_Wooden_Bench_00/udlufetqx_LOD0.udlufetqx_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/Old_Wooden_Carafe_00_inst.Old_Wooden_Carafe_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Albedo.udzjebtfa_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Displacement.udzjebtfa_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Normal_LOD0.udzjebtfa_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_2K_Roughness.udzjebtfa_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Old_Wooden_Carafe_00/udzjebtfa_LOD0.udzjebtfa_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/Old_Wooden_Chest_00_inst.Old_Wooden_Chest_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Albedo.udfkbb2qx_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Displacement.udfkbb2qx_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Normal_LOD0.udfkbb2qx_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_2K_Roughness.udfkbb2qx_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Old_Wooden_Chest_00/udfkbb2qx_LOD0.udfkbb2qx_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Table_00/Old_Wooden_Table_00_inst.Old_Wooden_Table_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Albedo.tl1xfcbfa_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Displacement.tl1xfcbfa_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Normal_LOD0.tl1xfcbfa_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_2K_Roughness.tl1xfcbfa_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Old_Wooden_Table_00/tl1xfcbfa_LOD0.tl1xfcbfa_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Albedo.ueihfisfa_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Displacement.ueihfisfa_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Normal_LOD0.ueihfisfa_2K_Normal_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_2K_Roughness.ueihfisfa_2K_Roughness
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Wooden_Container_00/ueihfisfa_LOD0.ueihfisfa_LOD0
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Wooden_Container_00/Wooden_Container_00_inst.Wooden_Container_00_inst
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Albedo.ucurag3fa_2K_Albedo
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Displacement.ucurag3fa_2K_Displacement
+[2020.05.08-09.05.23:508][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Normal_LOD0.ucurag3fa_2K_Normal_LOD0
+[2020.05.08-09.05.23:509][478]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_2K_Roughness.ucurag3fa_2K_Roughness
+[2020.05.08-09.05.23:509][478]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Wooden_Keg_00/ucurag3fa_LOD0.ucurag3fa_LOD0
+[2020.05.08-09.05.23:509][478]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Wooden_Keg_00/Wooden_Keg_00_inst.Wooden_Keg_00_inst
+[2020.05.08-09.05.49:890][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.05.08-09.05.49:994][557]LogSlate: Window 'crystain - Unreal Editor' being destroyed
+[2020.05.08-09.05.49:995][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.08-09.05.50:136][558]Cmd: QUIT_EDITOR
+[2020.05.08-09.05.50:136][558]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.08-09.05.50:147][558]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.08-09.05.50:147][558]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-09.05.50:186][558]LogExit: Preparing to exit.
+[2020.05.08-09.05.50:434][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.05.08-09.05.50:511][558]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-09.05.50:511][558]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-09.05.50:562][558]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-09.05.50:564][558]LogExit: Editor shut down
+[2020.05.08-09.05.50:565][558]LogExit: Transaction tracking system shut down
+[2020.05.08-09.05.50:565][558]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.08-09.05.50:954][558]LogExit: Object subsystem successfully closed.
+[2020.05.08-09.05.50:977][558]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.08-09.05.51:010][558]LogModuleManager: Shutting down and abandoning module MeshBuilder (706)
+[2020.05.08-09.05.51:010][558]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (704)
+[2020.05.08-09.05.51:010][558]LogModuleManager: Shutting down and abandoning module SceneOutliner (702)
+[2020.05.08-09.05.51:010][558]LogModuleManager: Shutting down and abandoning module AddContentDialog (700)
+[2020.05.08-09.05.51:011][558]LogModuleManager: Shutting down and abandoning module WidgetCarousel (699)
+[2020.05.08-09.05.51:011][558]LogModuleManager: Shutting down and abandoning module EditorWidgets (696)
+[2020.05.08-09.05.51:011][558]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module BspMode (674)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module OculusMR (664)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
+[2020.05.08-09.05.51:012][558]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module SessionServices (610)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
+[2020.05.08-09.05.51:013][558]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
+[2020.05.08-09.05.53:006][558]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module MergeActors (570)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module XmlParser (558)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module Blutility (556)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
+[2020.05.08-09.05.53:007][558]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module AutomationController (536)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module Layers (532)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module Persona (522)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2020.05.08-09.05.53:040][558]LogModuleManager: Shutting down and abandoning module Kismet (516)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module StructViewer (510)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module Toolbox (506)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module OutputLog (502)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module GammaUI (500)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module Documentation (498)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
+[2020.05.08-09.05.53:041][558]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module AIModule (472)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
+[2020.05.08-09.05.53:042][558]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2020.05.08-09.05.53:048][558]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module MegascansPlugin (458)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module ScreenshotTools (456)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (454)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module OculusEditor (450)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module OculusInput (448)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (446)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module EditableMesh (444)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (442)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module CableComponent (440)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (437)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AssetTags (434)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (432)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (430)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AppleImageUtils (428)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module AndroidPermission (426)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (424)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (422)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module MediaCompositing (420)
+[2020.05.08-09.05.53:068][558]LogModuleManager: Shutting down and abandoning module ImgMedia (418)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (416)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (414)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (412)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (410)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (408)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module BackChannel (406)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (404)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module AutomationUtils (402)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module AlembicImporter (400)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module AlembicLibrary (399)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module GeometryCache (398)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (397)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (392)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (390)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (388)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PluginBrowser (386)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (384)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (382)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (380)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (364)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (362)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module GitSourceControl (360)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module SourceControl (359)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (354)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (352)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (350)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (348)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (346)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (344)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module Paper2DEditor (342)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.05.08-09.05.53:069][558]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2020.05.08-09.05.53:170][558]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
+[2020.05.08-09.05.53:270][558]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2020.05.08-09.05.53:270][558]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
+[2020.05.08-09.05.53:270][558]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2020.05.08-09.05.53:271][558]LogModuleManager: Shutting down and abandoning module DataValidation (292)
+[2020.05.08-09.05.53:271][558]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2020.05.08-09.05.53:271][558]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
+[2020.05.08-09.05.53:272][558]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
+[2020.05.08-09.05.53:272][558]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
+[2020.05.08-09.05.53:272][558]LogModuleManager: Shutting down and abandoning module MainFrame (284)
+[2020.05.08-09.05.53:273][558]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2020.05.08-09.05.53:273][558]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
+[2020.05.08-09.05.53:275][558]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2020.05.08-09.05.53:275][558]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
+[2020.05.08-09.05.53:275][558]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (272)
+[2020.05.08-09.05.53:275][558]LogModuleManager: Shutting down and abandoning module Paper2D (270)
+[2020.05.08-09.05.53:275][558]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (268)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (266)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (264)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module PacketHandler (262)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module MessageLog (233)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module MRMesh (218)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (216)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (214)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module XAudio2 (212)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module Networking (210)
+[2020.05.08-09.05.53:278][558]LogModuleManager: Shutting down and abandoning module Core (208)
+[2020.05.08-09.05.53:279][558]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2020.05.08-09.05.53:279][558]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
+[2020.05.08-09.05.53:279][558]LogModuleManager: Shutting down and abandoning module Sequencer (203)
+[2020.05.08-09.05.53:279][558]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2020.05.08-09.05.53:280][558]LogDerivedDataCache: Shutdown
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2020.05.08-09.05.53:280][558]LogXGEController: Cleaning working directory: C:/Users/chris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2020.05.08-09.05.53:280][558]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2020.05.08-09.05.53:281][558]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.05.08-09.05.53:282][558]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.05.08-09.05.53:283][558]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
+[2020.05.08-09.05.53:289][558]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module Chaos (96)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2020.05.08-09.05.53:290][558]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
+[2020.05.08-09.05.53:290][558]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2020.05.08-09.05.53:291][558]LogModuleManager: Shutting down and abandoning module XMPP (69)
+[2020.05.08-09.05.53:291][558]LogModuleManager: Shutting down and abandoning module WebSockets (68)
+[2020.05.08-09.05.53:300][558]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2020.05.08-09.05.53:300][558]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.08-09.05.53:300][558]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50F3CB3E-451C-8549-BD89-4992B6DBB0EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=aabfa3ca48f3d8d00f256fbfc9047415%7C49c1d829a41e482a9b02fb9a8173b4fe%7C3e05afa4-74c6-4405-b9db-97d96ab86ab1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.08-09.05.53:302][558]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2020.05.08-09.05.53:304][558]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
+[2020.05.08-09.05.53:306][558]LogModuleManager: Shutting down and abandoning module Media (59)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.08-09.05.53:307][558]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.08-09.05.53:308][558]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.08-09.05.53:312][558]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.08-09.05.53:313][558]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.08-09.05.53:325][558]LogD3D11RHI: Shutdown
+[2020.05.08-09.05.53:325][558]LogD3D11RHI: CleanupD3DDevice
+[2020.05.08-09.05.53:347][558]LogExit: Exiting.
+[2020.05.08-09.05.53:403][558]Log file closed, 05/08/20 05:05:53
